@@ -1,0 +1,1 @@
+chocolate,sugar,whipped cream,baking powder,baking soda,dark chocolate,butter,eggs,cocoa powder,flours,vanilla extraction
